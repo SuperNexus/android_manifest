@@ -451,5 +451,5 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 
   <project path="vendor/supernexus" name="SuperNexus/android_vendor_supernexus" remote="github" revision="kitkat" />
-
+  <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-11.0" />
 </manifest>
