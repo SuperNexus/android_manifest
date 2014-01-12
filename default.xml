@@ -452,5 +452,5 @@
 
   <project path="vendor/supernexus" name="SuperNexus/android_vendor_supernexus" remote="github" revision="kitkat" />
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-11.0" />
-  <project path="kernel/samsung/aries" name="CyanogenMod/android_kernel_samsung_arues" remote="github" revision="cm-11.0" />
+  <project path="kernel/samsung/aries" name="CyanogenMod/android_kernel_samsung_aries" remote="github" revision="cm-11.0" />
 </manifest>
